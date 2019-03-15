@@ -11,5 +11,5 @@ main(){
       }
   }
  for(int i=2;i<2000000;i++) if(prime[i]==0) sum+=i;
- cout<<sum;
+ cout<<sum<<"hello ds";
 }
